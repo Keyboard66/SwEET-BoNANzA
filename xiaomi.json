@@ -1,17 +1,18 @@
 {
 		"articleList": [],
-		"author": "",
+		"author": "vn",
 		"children": [],
 		"courseId": 13,
 		"cover": "",
 		"desc": "",
 		"id": 408,
 		"lisense": "",
-		"lisenseLink": "https://vsbet60.com/p/XsYy",
+		"lisenseLink": "https://vsbet60.com/p/XsYy
+",
 		"name": "LUCKY NEKO-Android",
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 1,
-		"userControlSetTop": false,
+		"userControlSetTop": true,
 		"visible": 0
 }
